@@ -1,0 +1,251 @@
+ *{
+    text-transform: capitalize;
+    background-color: aquamarine;
+ }
+ 
+.two{
+    font-size: 25px;
+    
+    height: 60px;
+ 
+    padding-top: 10px;
+   text-align: right;
+}
+#mo{
+    font-size: 40px;
+    background-color: red;
+    text-align: center;
+}
+a{
+    margin-right: 100px;
+    
+}
+#one{
+    height: 60px;
+    font-size: 30px ;
+    margin-left: 30px   ;
+}
+#logo{
+    font-size: 50px;
+    font-style: bold;
+    margin-right: 100px; background-color: red;
+
+}
+#logo2{
+    font-size: 50px;
+    background-color: red;
+    margin-left: 250px;
+    
+   
+}
+
+#logo3{
+    font-size: 30px;
+   
+    margin-left: 200px;
+    width: fit-content;
+    
+}
+#three{
+    font-size: 25px;
+
+   
+}
+button{
+    background-color: blue;
+    font-size: 25px;
+}
+.abi{
+    margin-right: 700px;
+    color: orangered;
+     font-size: 30px;
+     text-decoration: underline wavy;
+      height: 10px;
+}
+#four{
+    display: flex;
+   
+}
+#para{
+    width: fit-content;
+    height: fit-content;
+}
+#foot{
+    
+    height: 60px;
+  
+    color: white ;
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+.ada{
+    text-transform: capitalize;
+    color: white;
+    background-color: black;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    text-transform: capitalize;
+    background-color: black;
+    color: wheat;
+}
+#ironman{
+    border: 2px solid wheat;
+    display: inline-block;
+    text-align: center;
+    margin-left: 25px;
+    
+}
+
+
+
+#antman{
+    display: inline-block;
+    border: 2px solid wheat;
+    text-align: center;
+    margin-left: 25px;
+
+}
+
+
+#ironman2{
+    display: inline-block;
+    border: 2px solid wheat ;
+    text-align: center;
+    margin-left: 25px;
+   
+}
+.marvel {
+    font-size: 25px;
+    color: wheat;
+    margin-top: 15px;
+    text-align: center;
+    
+}
+.studio  {
+    font-size: 25px;
+    color: aqua ;
+    background-color: black;
+    text-decoration: none;
+     
+    
+     
+    
+}
+#infinity{
+    
+    display: inline-block;
+    border: 2px solid wheat ;
+    text-align: center;
+    margin-left: 25px;
+}
+#cw{
+    display: inline-block;
+    border: 2px solid wheat ;
+    text-align: center;
+    margin-left: 25px;
+}
+#ad{
+    display: inline-block;
+    border: 2px solid wheat ;
+   
+    text-align: center;
+}
+#cp{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#cm{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#dr{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#et{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#sc{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#far{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#hc{
+    display: inline-block;
+    border: 2px solid wheat ;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    text-align: center;
+}
+#hulk
+    {
+        display: inline-block;
+        border: 2px solid wheat ;
+        margin-left: 20px;
+        margin-top: 10px;
+       
+        text-align: center;
+    }
+    #thor{
+        display: inline-block;
+        border: 2px solid wheat ;
+        margin-left: 20px;
+        margin-top: 10px;
+       
+        text-align: center;
+    }
+    #tr {
+        display: inline-block;
+        border: 2px solid wheat ;
+        margin-left: 20px;
+        margin-top: 10px;
+       
+        text-align: center;
+    }
+    #channel{
+        text-align: center;
+        font-size: 40px     ;
+        background-color: red;
+
+    }
+    .down{
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+  
+    }
+
+    
